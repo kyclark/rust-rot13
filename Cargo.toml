@@ -1,0 +1,9 @@
+[package]
+name = "rot13"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+clap = "2.33"
+regex = "1.4"
+textwrap = "0.13"
